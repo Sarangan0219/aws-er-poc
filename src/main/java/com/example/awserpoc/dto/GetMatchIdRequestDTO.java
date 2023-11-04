@@ -1,4 +1,4 @@
-package com.example.awserpoc;
+package com.example.awserpoc.dto;
 
 import java.util.Map;
 
