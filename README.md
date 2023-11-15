@@ -12,6 +12,8 @@ Entity Resolution API provides functionalities of AWS Entity Resolution. For com
 ## Introduction
 This document elaborates on the usage of the Entity Resolution API, showcasing sample requests. For this example, the focus is primarily on [getmatchid](https://docs.aws.amazon.com/entityresolution/latest/apireference/API_GetMatchId.html).
 
+You can incorporate controller and service methods to handle other ER REST API calls
+
 ## Endpoints
 
 ### ER API Authorization
